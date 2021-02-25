@@ -1,0 +1,61 @@
+h1{
+    color: black;
+    font-weight: bold;
+    font-size:  3em;
+}
+
+#name{
+    border-width: 0em;
+    margin-block: 1em;
+    padding-right: 3em;
+    font-size: 1.3em;
+}
+
+hr {
+    border-top: 1px solid grey;
+  }
+
+#mail{
+    border-width: 0em;
+    margin-block: 1em;
+    padding-right: 3em;
+    font-size: 1.3em;
+}
+
+#nr{
+    border-width: 0em;
+    margin-block: 1em;
+    font-size: 1.3em;
+}
+
+#msg{
+    border-width: 0em;
+    margin-block: 1em;
+    padding-bottom: 2em;
+    padding-right: 3em;
+    font-size: 1.3em;
+}
+
+#lb1{
+    margin-left: 0.1em;
+    font-size: 1.3em;
+}
+#lb2{
+    margin-left: 0.1em;
+    font-size: 1.3em;
+}
+#lb3{
+    margin-left: 0.1em;
+    font-size: 1.3em;
+}
+#lb4{
+    margin-left: 0.1em;
+    font-size: 1.3em;
+}
+
+#button{
+    text-align: center;
+    font-size: 3em;
+
+}
+

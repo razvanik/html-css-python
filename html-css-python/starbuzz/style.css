@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanalei&family=Roboto:wght@100;500&display=swap');
+
+
+* {
+    box-sizing: :border-box;
+    margin: 1;
+    padding: 1;
+
+
+}
+html{
+    scroll-behavior: smooth;
+
+
+}
+
+
+h1 {
+    color: #00ff00;
+    font-weight: normal;
+    font-size: 2em ;
+    text-align: center;
+
+   
+}
+
+h2 {
+    color: brown;
+
+}
+
+h3 {
+    color: #0000ff;
+
+}
+
+h4 {
+    color:cornflowerblue;
+
+}
+
+p {
+    color: thistle;
+    font-size: 1.4em;
+
+}
+
+body{
+    font-family: 'Roboto' , sans-serif;
+
+
+}
+
+a {
+    color:red;
+    text-decoration-line: none;
+
+
+}
+a:visited{
+    color:tomato;
+}
+
+a:hover{
+    background-color: turquoise;
+    
+}
+
+#contact {
+    color:slateblue;
+    font-weight: bold;
+    font-size: 1.5em;
+
+
+}
+
+.price:hover {
+    color:yellowgreen;
+
+}
+
+.price {
+    color: orangered;
+    font-weight: bold;
+
+
+}
+
+#menu {
+    background-color: palegreen;
+    border-style: solid;
+    border-color: rebeccapurple  brown rebeccapurple brown;
+    border-width: 0.5em;
+    padding: 0.455em 0.7em;
+    margin: 1em auto;
+    width: 6%;
+    height: 1.2em;
+    line-height: 1.2em;
+    text-align: center;
+
+    
+
+
+}
+
+#menu:hover{
+    color: blue;
+}
+
+
+.special{ 
+    color: salmon;
+
+}
+
+

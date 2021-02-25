@@ -1,0 +1,49 @@
+body {
+    height: 200vh;
+
+
+}
+
+
+
+div {
+    height: 5em;
+    width: 5em;
+    border-radius: 80%;
+    background-color: silver;
+    text-align: center;
+    line-height: 7em
+}
+
+#relative {
+    background-color: rgb(168, 80, 64);
+    position: relative;
+    top: 2em;
+    left: 2em;
+    
+}
+
+#absolute {
+    background-color: pink;
+    position: absolute;
+    top: 3em;
+    right: 101em;
+
+}
+
+#fixed {
+    background-color: orangered;
+    position: fixed;
+    top: 1em;
+    left: 5em;
+    z-index: 1;
+
+}
+
+#sticky{
+    background-color: royalblue;
+    position : sticky;
+    top: 0;
+
+
+}
